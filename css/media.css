@@ -1,0 +1,737 @@
+/*EXTRA SMALL DEVICE -------------------------(PORTRAIT PHONES, LESS THAN 576px)*/
+@media (max-width: 575.98px){
+/*header start*/
+header{
+    padding: 15px 0px;
+}
+.logo{
+    width: 160px;
+}
+.menu ul li a{
+    font-size: 16px;
+    padding-right: 0px !important; 
+}
+/*header end*/
+/*banner start*/
+.slider_text{
+    margin: 50px 0px;
+}
+.slider_text h2{
+    font-size: 23px;
+}
+.slider_text h1{
+    font-size: 25px;
+    margin: 15px 0px 25px;
+    line-height: 30px;
+
+}
+.slider_text p{
+    font-size: 20px;
+}
+.bt_one{
+    width: 130px;
+    height: 35px;
+    margin: 30px 15px 0px 0px;
+}
+.bt_two{
+    width: 130px;
+    height: 35px;
+    margin-top: 30px;
+}
+/*banner end*/
+/*about start*/
+.a_text{
+    margin-top: 0px;
+}
+.a_text h2{
+    font-size: 26px;
+}
+.a_text h1{
+    font-size: 25px;
+    margin: 10px 0px 0px;
+    line-height: 30px;
+}
+.about_button{
+    text-align: center;
+    margin: 30px 0px;
+}
+.a_buttonone{
+    width: 140px;
+    height: 40px;
+    margin: 10px 10px 10px 0px;
+}
+.a_text p{
+    margin-bottom: 35px;
+}
+.a_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+/*about end*/
+/*achieve start*/
+.achieve{
+    background-color: #4b2d7f;
+    margin: 0px;
+}
+.singel_ac{
+    text-align: center;
+    padding: 70px 0px 60px;
+}
+.singel_img{
+    width: 60px;
+    height: 60px;
+}
+.singel_ac h1{
+    font-size: 45px;
+    margin: 20px 0px 10px;
+}
+/*achive end*/
+/*grow start*/
+.grow{
+    padding: 80px 0px;
+}
+.g_row h2{
+    font-size: 35px;
+}
+.g_row h1{
+    font-size: 25px;
+    margin: 20px 0px 25px;
+}
+.g_row p{
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+.g_buttontwo{
+    width: 130px;
+    height: 40px;
+}
+/*grow end*/
+/*service start*/
+.service{
+    padding: 50px 0px 40px;
+}
+.s_text h2{
+    font-size: 23px;
+}
+.s_text h1{
+    font-size: 25px;
+    margin: 10px 0px 20px;
+    line-height: 30px;
+}
+.p_text{
+    font-size: 15px;
+}
+.singel_service{
+    margin-top: 25px;
+    text-align: center;
+}
+.sin_img{
+    width: 45px;
+    height: 45px;
+    margin: 0 auto;
+}
+.singel_service h3{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.ser_buttontwo{
+    width: 130px;
+    height: 38px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.s_img img{
+    display: none;
+}
+/*service end*/
+/*work start*/
+.work{
+    background-color: #f1f1f1;
+    padding: 70px 0px;
+}
+.w_text h1{
+    font-size: 33px;
+}
+.w_text p{
+    font-size: 18px;
+    margin: 20px 0px;
+}
+.w_button{
+    margin-top: 60px;
+}
+.wbt_one{
+    width: 130px;
+    height: 40px;
+}
+/*work end*/
+/*testmonail start*/
+.test-text{
+    margin-top: 30px;
+}
+.test-text h2{
+    font-size: 30px;
+}
+.test-text h1{
+    font-size: 36px;
+    margin: 5px 0px 15px;
+}
+.pt_one{
+    font-size: 19px;
+}
+.t_img{
+    margin-top: 35px; 
+}
+.pt_two{
+    font-size: 22px;
+}
+.test_img img{
+    display: none;
+}
+/*testmonail end*/
+}
+
+
+/*SMALL DEVICES ----------------------------------(LANDSCAPE PHONES, 576px AND UP)*/
+@media(min-width: 576px) and (max-width: 767.98px){
+/*header start*/
+header{
+    padding: 15px 0px;
+}
+.logo{
+    width: 160px;
+}
+.menu ul li a{
+    font-size: 16px;
+    padding-right: 0px !important; 
+}
+/*header end*/
+/*banner start*/
+.slider_text{
+    margin: 60px 0px;
+}
+.slider_text h2{
+    font-size: 40px;
+}
+.slider_text h1{
+    font-size: 44px;
+    line-height: 45px;
+}
+.slider_text p{
+    font-size: 20px;
+}
+.bt_one{
+    width: 130px;
+    height: 40px;
+    margin: 40px 25px 0px 0px;
+}
+.bt_two{
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+}
+/*banner end*/
+/*about start*/
+.a_text{
+    margin-top: 0px;
+}
+.a_text h2{
+    font-size: 30px;
+}
+.a_text h1{
+    font-size: 33px;
+    margin: 15px 0px 0px;
+    line-height: 38px;
+}
+.a_buttonone{
+    width: 130px;
+    height: 35px;;
+    margin: 20px 20px 30px 0px;
+}
+.a_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+/*about end*/
+/*achieve start*/
+.singel_img{
+    width: 60px;
+    height: 60px;
+}
+.singel_ac h1{
+    font-size: 45px;
+}
+.singel_ac h2{
+    font-size: 21px;
+}
+/*achive end*/
+.grow{
+    padding: 90px 0px;
+}
+.g_row h2{
+    font-size: 35px;
+}
+.g_row h1{
+    font-size: 24px;
+    color: #ffffff;
+    margin: 20px 0px;
+}
+.g_row p{
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+.g_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+/*grow end*/
+/*service start*/
+.service{
+    padding: 50px 0px 40px;
+}
+.s_text h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #484848;
+    margin: 10px 0px 20px;
+    line-height: 40px;
+}
+.p_text{
+    font-size: 16px;
+}
+.singel_service{
+    margin-top: 10px;
+}
+.sin_img{
+    width: 50px;
+    height: 50px;
+}
+.singel_service h3{
+    font-size: 22px;
+    margin: 10px 0px;
+}
+.ser_buttontwo{
+    width: 130px;
+    height: 40px;
+    margin-top: 20px;
+}
+.s_img img{
+    display: none;
+}
+/*service end*/
+/*work start*/
+.work{
+    padding: 50px 0px;
+}
+.w_text h1{
+    font-size: 40px;
+}
+.w_text p{
+    font-size: 17px;
+    margin: 30px 0px;
+}
+
+.display_sm{
+    display: none;
+}
+.w_img img{
+    margin-top: 25px;
+}
+.w_button{
+    margin-top: 70px;
+}
+/*work end*/
+/*testmonail start*/
+.test-text{
+    margin-top: 40px;
+}
+.test-text h2{
+    font-size: 35px;
+}
+.test-text h1{
+    font-size: 40px;
+    margin: 5px 0px 20px;
+}
+.pt_one{
+    font-size: 21px;
+}
+.t_img{
+    margin-top: 40px; 
+}
+.t_img img{
+    width: 100px;
+}
+.test_img img{
+    display: none;
+}
+/*testmonail end*/
+}
+/*MEDIUM DEVICES -----------------------------------(TABLETS, 768px AND UP)*/
+@media(min-width: 768px) and (max-width: 991.98px){
+/*header start*/
+header{
+    padding: 15px 0px;
+}
+.logo{
+    width: 220px;
+    margin-bottom: 8px;
+}
+.menu ul li a{
+    font-size: 17px;
+    padding-right: 0px !important; 
+}
+/*header end*/
+/*banner start*/
+.slider_text{
+    margin: 80px 0px 80px;
+}
+.slider_text h2{
+    font-size: 32px;
+}
+.slider_text h1{
+    font-size: 34px;
+    margin: 15px 0px 25px;
+    line-height: 40px;
+}
+.slider_text p{
+    font-size: 20px;
+}
+.bt_one{
+    margin: 30px 25px 0px 0px;
+}
+.bt_two{
+    margin-top: 30px;
+}
+.slider_img{
+    height: 499px;
+}
+/*banner end*/
+/*about start*/
+.a_text{
+    margin-top: 0px;
+}
+.a_text h2{
+    font-size: 30px;;
+}
+.a_text h1{
+    font-size: 32px;
+    margin: 15px 0px 0px;
+    line-height: 33px;
+}
+.a_buttonone{
+    width: 115px;
+    height: 35px;
+    font-size: 13px;
+    margin: 25px 5px 25px 0px;
+}
+.a_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+.a_img img{
+    height: 400px;
+}
+/*about end*/
+/*achieve start*/
+.singel_ac{
+    text-align: center;
+    padding: 70px 10px 60px;
+}
+.singel_img{
+    width: 55px;
+    height: 55px;
+}
+.singel_ac h1{
+    font-size: 40px;
+    margin: 18px 0px 12px;
+}
+.singel_ac h2{
+    font-size: 19px;
+}
+.singel_ac p{
+    font-size: 15px;
+}
+/*achive end*/
+.g_row h2{
+    font-size: 40px;
+}
+.g_row h1{
+    font-size: 32px;
+}
+.g_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+/*grow end*/
+/*service start*/
+.service{
+    padding: 60px 0px 0px;
+}
+.s_img img{
+    display: none;
+}
+/*service end*/
+/*work start*/
+.work{
+    background-color: #f1f1f1;
+    padding: 60px 0px 50px;
+}
+.w_text h1{
+    font-size: 45px;
+}
+.w_text p{
+    font-size: 18px;
+    margin: 30px 0px;
+}
+
+.w_img img{
+    margin-top: 20px;
+}
+/*work end*/
+/*testmonail start*/
+.test-text{
+    margin-top: 60px;
+}
+.test-text h2{
+    font-size: 38px;
+}
+.test-text h1{
+    font-size: 45px;
+    margin: 5px 0px 15px;
+}
+.pt_one{
+    font-size: 20px;
+}
+.t_img{
+    margin-top: 45px; 
+}
+.pt_two{
+    font-size: 22px;
+}
+.test_img img{
+    width: 100%;
+    height: 450px;
+}
+/*testmonail end*/
+}
+
+/*LAGRE DEVICE -------------------------------------(DESKTOPS, 992px AND UP)*/
+@media(min-width: 992px) and (max-width: 1199.96px){
+/*header -----------style start*/
+header{
+    padding: 15px 0px;
+}
+.logo{
+    padding: 0px;
+    width: 210px;
+    margin-bottom: 10px;
+}
+.menu ul li a{
+    font-size: 17px;
+    padding-right: 15px !important; 
+}
+/*header ------------style end*/
+/*banner start*/
+.slider_text{
+    margin: 100px 0px 90px;
+}
+.slider_text h1{
+    font-size: 46px;
+    line-height: 50px;
+}
+.slider_text p{
+    font-size: 22px;
+}
+.bt_one{
+    margin: 50px 30px 0px 50px;
+}
+.slider_img{
+    height: 605px;
+}
+/*banner end*/
+/*about start*/
+.a_text{
+    margin-top: 30px;
+}
+.a_text h1{
+    font-size: 39px;
+    margin: 15px 0px 0px;
+    line-height: 40px;
+}
+.a_buttonone{
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    margin: 30px 10px 30px 0px;
+}
+
+.a_buttonone:hover{
+    color: #fff;
+    background-color: #F42267;
+}
+.a_buttontwo{
+    width: 145px;
+    height: 45px;
+}
+/*about end*/
+/*achieve start*/
+.singel_ac{
+    padding: 70px 40px 60px;
+}
+.singel_ac h1{
+    font-size: 40px;
+    margin: 20px 0px 12px;
+}
+.singel_ac h2{
+    font-size: 21px;
+}
+/*achive end*/
+.g_row h2{
+    font-size: 45px;
+}
+.g_row h1{
+    font-size: 36px;
+}
+.g_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+/*grow end*/
+/*service start*/
+.service{
+    padding: 60px 0px 70px;
+}
+.s_text h1{
+    font-size: 46px;
+    line-height: 45px;
+}
+.singel_service{
+    margin-top: 15px;
+}
+.sin_img{
+    width: 55px;
+    height: 55px;
+}
+.singel_service h3{
+    font-size: 25px;
+    margin: 15px 0px 12px;
+}
+.s_img{
+    height: 470px;
+}
+.s_img img{
+    height: 100%;
+}
+/*service end*/
+/*testmonail start*/
+.test-text{
+    margin-top: 60px;
+}
+.test-text h2{
+    font-family: 'Bona Nova', serif;
+    font-style: italic;
+    font-size: 40px;
+    color: #fff;
+    margin: 0px;
+}
+.pt_one{
+    font-size: 20px;
+}
+.t_img{
+    margin-top: 45px; 
+}
+.test_img img{
+    height: 450px;
+}
+/*testmonail end*/
+}
+
+/*EXTAR LARGE DEVICE --------------------------------(LARGE DESKTOPS,1200PX AND UP)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+/*banner start*/
+.slider_text{
+    margin: 110px 0px 100px;
+}
+.slider_text h1{
+    font-size: 55px;
+    line-height: 55px;
+
+}
+.bt_one{
+    margin: 50px 30px 0px 70px;;
+}
+.slider_img{
+    height: 635px;
+}
+/*banner end*/
+/*about start*/
+.a_text h1{
+    font-size: 47px;
+    margin: 15px 0px 0px;
+    line-height: 45px;
+}
+.a_buttonone{
+    width: 110px;
+    height: 35px;
+    font-size: 13px;
+    margin: 30px 15px 30px 0px;
+}
+.a_text p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1d1d1d;
+    margin-bottom: 40px;
+}
+/*about end*/
+/*achive start*/
+.singel_ac h1{
+    font-size: 45px;
+    margin: 20px 0px 15px;
+}
+.singel_ac h2{
+    font-size: 23px;
+}
+/*achive end*/
+.g_row h1{
+    font-size: 43px;
+}
+.g_row p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 70px;
+}
+.g_buttontwo{
+    width: 140px;
+    height: 45px;
+}
+/*grow end*/
+/*service start*/
+.service{
+    padding: 60px 0px 70px;
+}
+.s_text h1{
+    margin: 12px 0px 25px;
+}
+.s_img{
+    margin-top: 60px;
+}
+.s_img{
+    height: 440px;
+}
+.s_img img{
+    height: 100%;
+}
+/*service end*/
+}
+
+/*EXTRA EXTRA LARGE DEVICES ----------------(EXTRA EXTRA LARGE DESKTOPS,1400PX AND UP)*/
+@media (min-width: 1400px){
+/*slider start*/
+/*slider end*/
+
+
+
+}
